@@ -16,7 +16,6 @@ L'objectif est d'identifier les tendances de marché entre les genres **Fiction*
 * **Nettoyage & Préparation :** Python (Pandas), Power Query (M)
 * **Analyse de Données :** SQL (BigQuery), Python (NumPy)
 * **Visualisation :** Power BI, Seaborn, Matplotlib
-* **Modélisation :** Schéma en étoile (Star Schema)
 
 ---
 
