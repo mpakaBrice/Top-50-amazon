@@ -35,7 +35,7 @@ Une attention particulière a été portée à la qualité des données (**Data 
 * **Domination du Marché :** La **Non-Fiction** est majoritaire, représentant environ **55%** des titres du Top 50 sur la période. Sa part de marché est en croissance constante depuis 2014.
 * **Performance des Prix :** La Fiction performe mieux sur les prix bas (< 10$), tandis que la Non-Fiction parvient à maintenir des volumes élevés même sur des segments Premium (> 20$).
 * **Satisfaction Client :** Bien que moins nombreux, les livres de **Fiction** obtiennent en moyenne des notes utilisateurs (`User Rating`) plus élevées (4.62) que la Non-Fiction (4.60), suggérant une plus forte fidélité émotionnelle.
-* **Popularité :** Le nombre de commentaires (`Reviews`) a explosé entre 2011 et 2019, signe d'une interactivité accrue sur la plateforme.
+
 
 ---
 
