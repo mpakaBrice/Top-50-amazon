@@ -48,15 +48,6 @@ Une attention particulière a été portée à la qualité des données (**Data 
 
 ---
 
-## 📁 Structure du Repository
-* `/data` : Dataset original et dataset nettoyé.
-* `/sql` : 
-* `/python` :https://colab.research.google.com/drive/1EYd3Kyl_uPBqSn8IxYR79M_oaik7SieQ#scrollTo=O1H_-34zm_t- (EDA et Data Cleaning).
-* `/powerbi` : Fichier `.pbix` du dashboard interactif.
-* `README.md` : Présentation du projet.
-
----
-
 
 ## 👤 Contact
 **Brice Mpaka** - Junior Data Analyst
