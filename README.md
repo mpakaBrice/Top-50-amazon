@@ -51,20 +51,15 @@ Une attention particulière a été portée à la qualité des données (**Data 
 
 ## 📁 Structure du Repository
 * `/data` : Dataset original et dataset nettoyé.
-* `/sql` : Requêtes SQL utilisées pour l'extraction des indicateurs.
-* `/python` : Notebook Jupyter (EDA et Data Cleaning).
+* `/sql` : 
+* `/python` :https://colab.research.google.com/drive/1EYd3Kyl_uPBqSn8IxYR79M_oaik7SieQ#scrollTo=O1H_-34zm_t- (EDA et Data Cleaning).
 * `/powerbi` : Fichier `.pbix` du dashboard interactif.
 * `README.md` : Présentation du projet.
 
 ---
 
-## 📈 Dashboard Power BI
-![Capture d'écran de ton dashboard]([LIEN_VERS_TON_IMAGE])
-*Vous pouvez consulter le rapport interactif ici : [Lien vers ton portfolio/PowerBI Service]*
-
----
 
 ## 👤 Contact
-**[Ton Prénom] [Ton Nom]** - Junior Data Analyst
-* [LinkedIn]([TON_LIEN_LINKEDIN])
-* [Portfolio]([TON_LIEN_PORTFOLIO])
+**Brice Mpaka** - Junior Data Analyst
+* www.linkedin.com/in/bricempaka
+* https://resisted-message-95d.notion.site/Mpaka-Brice-30abf06cf80080a0bd10f61492ed6620
