@@ -25,8 +25,8 @@ Une attention particulière a été portée à la qualité des données (**Data 
 
 1.  **Gestion des doublons :** Création d'une table de dimension `Df_books` pour isoler les caractéristiques uniques des livres (350 titres) et d'une table de faits `df_amazon` pour l'analyse temporelle (550 entrées).
 2.  **Imputation des prix manquants :** Les prix à 0$ ont été identifiés comme des anomalies. Ils ont été remplacés par la **médiane des prix par genre** pour maintenir la cohérence de l'analyse.
-3.  **Normalisation :** Nettoyage des noms d'auteurs (ex: regroupement de "J. K. Rowling" et "J.K. Rowling") via Power Query.
-4.  **Segmentation (Binning) :** Création de tranches de prix (0-10$, 10-20$, 20$+) pour une analyse granulaire du comportement d'achat.
+3.  **Normalisation :** Nettoyage des noms d'auteurs (ex: regroupement de "J. K. Rowling" et "J.K. Rowling").
+4.  **Segmentation (Binning) :** Création de tranches de prix (0-10$, 10-20$, 20$+) pour une analyse granulaire du comportement d'achat via Power Query
 
 ---
 
