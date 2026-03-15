@@ -39,6 +39,7 @@ Une attention particulière a été portée à la qualité des données (**Data 
 
 ---
 
+
 ## 💡 Recommandations Business
 
 1.  **Pour le Volume :** Investir dans la **Non-Fiction** (guides, biographies), car le marché est plus vaste et permet des marges plus élevées (prix moyen supérieur).
