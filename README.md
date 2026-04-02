@@ -53,4 +53,4 @@ Une attention particulière a été portée à la qualité des données (**Data 
 ## 👤 Contact
 **Brice Mpaka** - Junior Data Analyst
 * www.linkedin.com/in/bricempaka
-* https://resisted-message-95d.notion.site/Mpaka-Brice-30abf06cf80080a0bd10f61492ed6620
+* https://www.notion.so/mpakabrice/Mpaka-Brice-Data-Analyst-Junior-30abf06cf80080a0bd10f61492ed6620?source=copy_link
